@@ -1,0 +1,11 @@
+{
+  "name": "devoir-2",
+  "version": "1.0.0",
+  "description": "Aceasta este Tema 2 - Robot Language.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simion Andrei-Laurentiu",
+  "license": "ISC"
+}
